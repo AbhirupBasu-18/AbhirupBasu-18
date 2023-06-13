@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbhirupBasu-18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..web development and c++.
+- 👋 Hi, I’m Abhirup Basu
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning ..web development,competitive programming,dsa and c++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..mailm me at abhirupbasu2019@gmail.com.
 
